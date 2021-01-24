@@ -1,0 +1,1 @@
+Using points without depth to help optimize the rotation, whiling calculating their depths
